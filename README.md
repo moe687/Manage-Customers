@@ -1,17 +1,9 @@
-# vCustomers
+# customers
 
-> Simple customer manager frontend to be used with the [SlimPHP RESTful API](https://github.com/bradtraversy/slimapp)
+> Simple customer manager frontend to be used with the Database API 
 
-## Installation
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-```
-
+# What I Learned  
+- Download data from the Database
+- Add input's data to Database
+- Search bar and search settings
+- Remove items from the UI
