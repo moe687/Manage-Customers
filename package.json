@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "description": "Simple customer manager",
-  "author": "Brad Traversy <me@bradtraversy>",
+  "author": "Mahmood Al-Zubaidi <me@moe>",
   "scripts": {
     "build": "node build/build.js",
     "dev": "node build/dev-server.js"
